@@ -1,0 +1,17 @@
+frmMsgBox = 66, 66, 461, 412, C, 22, 22, 417, 368, C
+modMsgBoxAPI = 44, 44, 439, 390, C
+frmMenuBitmap = 44, 44, 439, 390, C, 154, 154, 549, 500, C
+modBitmapInMenu = 66, 66, 461, 412, C
+frmChoose = 44, 44, 439, 390, C, 22, 22, 417, 368, C
+frmPaint = 110, 110, 505, 456, C, 88, 88, 483, 434, C
+modDisableCtrlAltDel = 22, 22, 417, 368, C
+modFrmOnTop = 110, 110, 505, 456, C
+frmOnTop = 88, 88, 483, 434, C, 66, 66, 461, 412, C
+frmCtrlAltDel = 0, 0, 395, 346, C, 154, 154, 549, 500, C
+modClipCuror = 132, 132, 527, 478, C
+frmTrapCursor = 0, 0, 395, 346, C, 154, 154, 549, 500, C
+modCursorPosition = 132, 132, 527, 478, C
+frmGetCursorPos = 66, 66, 461, 412, C, 44, 44, 439, 390, C
+frmMoveCursor = 66, 66, 461, 412, C, 44, 44, 439, 390, C
+modMoveCursor = 132, 132, 527, 478, C
+frmHideCursor = 0, 0, 395, 346, C, 154, 154, 549, 500, C
